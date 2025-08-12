@@ -8,7 +8,7 @@
 
 <h4 align="center">
   - 🌱 <strong>Learning:</strong> Competitive Programming, MERN Stack  
-  - 🌐 <strong>Portfolio:</strong> <a href="https://alifjobaer12-final-assignment2.surge.sh/" target="_blank">visit</a>  
+  - 🌐 <strong>Portfolio:</strong> <a href="https://alifjobaer12.surge.sh/" target="_blank">visit</a>  
 </h4>
 
 <br/>
@@ -23,7 +23,7 @@
   <a href="https://codeforces.com/profile/alifjobaer12" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://alifjobaer12-final-assignment2.surge.sh/" target="_blank">
+  <a href="https://alifjobaer12.surge.sh/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
